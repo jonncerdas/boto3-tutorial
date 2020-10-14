@@ -1,5 +1,5 @@
 
-**Change the following lines with your AWS Credentials**
+**Add your AWS Credentials**
 
 `ARG AWS_SECRET_ACCESS_KEY=your-aws-secret-access-key`
 
